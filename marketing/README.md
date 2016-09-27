@@ -11,9 +11,8 @@ These are the **required items**, that you'll need to put in the calendar
 
 * Announce venue, date, and time
 * Register with conference/community sites
-  - php.net conferences page [http://www.php.net/conferences/](http://
-  - cfpreport.com 
-www.php.net/conferences/)
+  - php.net conferences page [http://www.php.net/conferences/](http://www.php.net/conferences/)
+  - [thecfpreport.com](https://thecfpreport.com/) 
 * Sponsor other Conferences
 * Open CFP
 * Announce CFP
