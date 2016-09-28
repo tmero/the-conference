@@ -112,11 +112,16 @@ These are the **required items**, that you'll need to put in the calendar
 
 ## SWAG
 
+* Can coozie
 * Stickers
 * T-shirts
 * Product Ideas
   - Our own elePHPant? 
 * Vendors
+* Drink Coasters
+* Monitor cloth
+* Lanyards
+
 
 
 
