@@ -3,6 +3,17 @@
 
 This page will be useful when you select your talks and workshops, but haven't yet defined the schedule for the current year. It just lets you know what the organizer team has decided upon
 
+## Hot Topics for 2016
+
+* Docker
+* HTTP/2
+* PHP7
+* Microservices
+* ELK
+* Modernizing Legacy Apps
+* Machine Learning
+
+
 ## Sessions
 
 * Beyond MySQL by **Lorna Mitchell**
