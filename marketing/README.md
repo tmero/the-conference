@@ -73,7 +73,7 @@ These are the **required items**, that you'll need to put in the calendar
 
 ## Online
 
-* Discount Codes
+* [Discount Codes](discount-codes.md)
 * Live Blog
 * Podcast Sponsorship
 * Podcast Appearances
