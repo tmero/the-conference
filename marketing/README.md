@@ -74,6 +74,7 @@ These are the **required items**, that you'll need to put in the calendar
 ## Online
 
 * [Discount Codes](discount-codes.md)
+* [Tech Event Websites](tech-event-websites.md)
 * Live Blog
 * Podcast Sponsorship
 * Podcast Appearances
