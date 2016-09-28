@@ -39,6 +39,7 @@ We hope you will join with us for this amazing learning and networking experienc
 ## Sponsor Information
 
 * [Prospectus](sponsors/prospectus.pdf)
+* [Day of Information](sponsors/day-of.md)
 * [Sponsors](sponsors/README.md)
   - Platinum
   - Gold
@@ -119,4 +120,10 @@ We hope you will join with us for this amazing learning and networking experienc
 * 17:20 - 17:35 Raffle & Prizes by Jeremy Lindblom
 * 17:35 - 17:45 Final Thoughts by Tessa Mero
 
+## Additional Information
+
+
+* [Code of Conduct](code-of-conduct.md)
+* [Speaker Agreement](cfp-content.md#speaker-agreement)
+* [CFP Content](cfp-content.md)
 
