@@ -86,7 +86,7 @@ We hope you will join with us for this amazing learning and networking experienc
 ### 2016-09-16 Conference Sessions Day 1
 * 09:00 - 09:10 Welcome to PNWPHP
 * 09:15 - 10:00 The Accidental Professional by Adam Culp
-* 10:05 - 10:30 Here Be Dragons! What It's Really Like to Slay A Monolith
+* 10:05 - 10:30 Here Be Dragons! What It's Really Like to Slay A Monolith by Graham Daniels
 * 10:30 - 11:00 *Morning Break*
 * 11:00 - 11:45 My Journey to the Center of PHP by Sammy Kaye Powers
 * 11:50 - 12:15 Taming the Resource Tiger by Elizabeth M Smith
@@ -98,20 +98,20 @@ We hope you will join with us for this amazing learning and networking experienc
 * 15:45 - 16:10 Failing at Scale by Chris Tankersley
 * 16:15 - 16:45 *Late Afternoon Break*
 * 16:45 - 17:30 Give Me a REST! by Amanda Folson
-* 17:35 - 18:00 Why Your Mobile Website Matters
+* 17:35 - 18:00 Why Your Mobile Website Matters by Robert McFrazier
 * 18:00 - 22:00 Dinner &amp; Reception
-* 19:00 - 19:45 Stronger Than Fear: Mental Health In the Developer Community
+* 19:00 - 19:45 Stronger Than Fear: Mental Health In the Developer Community by Ed Finkler
 
 
 ### 2016-09-17 Conference Sessions Day 2
 * 09:00 - 09:45 Laravel: Design and Philosophy by Taylor Otwell
-* 09:50 - 10:30 Exploiting the Brain for Fun and Profit
+* 09:50 - 10:30 Exploiting the Brain for Fun and Profit by Alena Hooligan
 * 10:30 - 11:00 *Morning Break*
 * 11:00 - 11:45 HTTP/2 and Async APIs by Davey Shafik
-* 11:50 - 12:15 Graph Databases Will Change Your Freaking Life
+* 11:50 - 12:15 Graph Databases Will Change Your Freaking Life by Ed Finkler
 * 12:15 - 13:30 *Lunch*
-* 13:30 - 14:15 Hitting the Turbo Button: Upgrading to PHP7 at Etsy
-* 14:20 - 14:45 If You Build It, They Won't Come 
+* 13:30 - 14:15 Hitting the Turbo Button: Upgrading to PHP7 at Etsy by Will Gallego
+* 14:20 - 14:45 If You Build It, They Won't Come by Amanda Folson
 * 14:50 - 15:30 Curing the Common Loop (With Collection Pipelines) by Adam Wathan
 * 15:30 - 16:00 *Afternoon Break*
 * 16:00 - 16:25 The State of the PHP Community by Eli White
